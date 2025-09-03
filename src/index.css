@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+/* Tailwind layer hooks if needed
+@layer base {}
+@layer components {}
+@layer utilities {}
+*/
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+}
